@@ -19,7 +19,7 @@ function App() {
       id: "e4",
       title: "New Desk (Wooden)",
       amount: 450,
-      date: new Date(2022, 0, 69),
+      date: new Date(2022, 0, 420),
     },
   ];
 
